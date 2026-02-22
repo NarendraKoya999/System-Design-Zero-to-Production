@@ -20,9 +20,9 @@
 
 <br/>
 
-> *"The engineers who get international remote roles are not the ones who studied the most.*
-> *They are the ones who built real projects touching all these layers*
-> *and can speak to their decisions with earned confidence."*
+> *"Great system designers aren’t made by memorizing patterns.*
+> *They’re shaped by building real systems end-to-end*
+> *and understanding the trade-offs behind every architectural decision."*
 
 <br/>
 
