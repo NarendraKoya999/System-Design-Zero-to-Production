@@ -34,7 +34,7 @@
 
 ## About This Repository
 
-This repository is a **free, community-driven, complete system design curriculum** built for engineers who want to go from zero knowledge to being ready for senior engineering roles at top international remote companies — FAANG, top European startups, Singapore tech hubs, and US product companies.
+This repository is a free, community-driven, complete system design curriculum built for engineers who want to go from zero knowledge to being ready for senior engineering roles at top international remote companies — FAANG, top startups, leading tech hubs, and global product companies.
 
 Most system design resources teach you theory in isolation. This roadmap is different:
 
